@@ -12,10 +12,11 @@ Before that, I worked on the business side: I headed a mechanic loyalty programm
 
 ---
 
-**Projects you can open** (demos on synthetic data; production versions run on company data I can't share)
+**Projects you can open** (demos on synthetic or public data; production versions run on company data I can't share)
 
 | Project | What it shows |
 |---|---|
+| [**Retail Demand Forecast**](https://nikhilveerwani.github.io/retail-demand-forecast/) · [code](https://github.com/nikhilveerwani/retail-demand-forecast) | LightGBM on real Walmart M5 data, back-tested on 3 unseen months: store forecast off by 5.7% vs 8–16% for simple rules, about 15% less safety stock at 95% availability. |
 | [**Webinar Audience Console**](https://nikhilveerwani.github.io/webinar-audience-console/) · [code](https://github.com/nikhilveerwani/webinar-audience-console) | Minute-by-minute retention from raw join/leave events. Python pipeline, BigQuery SQL, unit tests, daily GitHub Actions refresh. |
 | [**Funnel & ROI Console**](https://nikhilveerwani.github.io/funnel-roi-console/) · [code](https://github.com/nikhilveerwani/funnel-roi-console) | Ad spend joined to the full funnel on campaign ID (98.5% vs 87% by name). Scale / fix / cut on mature-cohort ROAS, rule-based "what moved" in rupees. |
 | [**Lead Dedup & Attribution**](https://nikhilveerwani.github.io/lead-dedup-attribution/) · [code](https://github.com/nikhilveerwani/lead-dedup-attribution) | Identity resolution, rolling vs anchor 45-day dedup (recursive SQL), and an ordered Organic rule that found ~45% of "Organic" was paid or test traffic. |
