@@ -12,6 +12,12 @@ Before that, I worked on the business side: I headed a mechanic loyalty programm
 
 ---
 
+**Projects you can open** (demos on synthetic data; production versions run on company data I can't share)
+
+| Project | What it shows |
+|---|---|
+| [**Webinar Audience Console**](https://nikhilveerwani.github.io/webinar-audience-console/) · [code](https://github.com/nikhilveerwani/webinar-audience-console) | Minute-by-minute retention from raw join/leave events. Python pipeline, BigQuery SQL, unit tests, daily GitHub Actions refresh. |
+
 **What I work with**
 
 ![SQL](https://img.shields.io/badge/SQL-advanced-1F3864?style=flat-square)
