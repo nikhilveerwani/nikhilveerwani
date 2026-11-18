@@ -8,6 +8,8 @@ Before that, I worked on the business side: I headed a mechanic loyalty programm
 
 **[→ See the portfolio](https://nikhilveerwani.github.io/)** · [LinkedIn](https://www.linkedin.com/in/nikhil-veerwani) · [Resume (PDF)](https://nikhilveerwani.github.io/Nikhil_Veerwani_Resume.pdf)
 
+📧 nikhilveerwani1993@gmail.com · 📞 +91 77371 42050
+
 ---
 
 **What I work with**
