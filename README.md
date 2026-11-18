@@ -18,6 +18,7 @@ Before that, I worked on the business side: I headed a mechanic loyalty programm
 |---|---|
 | [**Webinar Audience Console**](https://nikhilveerwani.github.io/webinar-audience-console/) · [code](https://github.com/nikhilveerwani/webinar-audience-console) | Minute-by-minute retention from raw join/leave events. Python pipeline, BigQuery SQL, unit tests, daily GitHub Actions refresh. |
 | [**Funnel & ROI Console**](https://nikhilveerwani.github.io/funnel-roi-console/) · [code](https://github.com/nikhilveerwani/funnel-roi-console) | Ad spend joined to the full funnel on campaign ID (98.5% vs 87% by name). Scale / fix / cut on mature-cohort ROAS, rule-based "what moved" in rupees. |
+| [**Lead Dedup & Attribution**](https://nikhilveerwani.github.io/lead-dedup-attribution/) · [code](https://github.com/nikhilveerwani/lead-dedup-attribution) | Identity resolution, rolling vs anchor 45-day dedup (recursive SQL), and an ordered Organic rule that found ~45% of "Organic" was paid or test traffic. |
 | [**Lead SLA Monitor**](https://nikhilveerwani.github.io/lead-sla-monitor/) · [code & template](https://github.com/nikhilveerwani/lead-sla-monitor) | Every lead called within 24h: SLA by team and rep, call-now list, Slack digest 3× a day. Google Sheets + Apps Script template with one tested rules file. |
 
 **What I work with**
